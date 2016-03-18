@@ -1,0 +1,21 @@
+/**
+ * Created by rakeshmistry on 18/03/16.
+ * Straker Angular JS Exercise.
+ */
+
+body{
+    margin-top: 1em;
+}
+
+.navbar-header{
+    width: 100%;
+}
+
+.navbar-brand:last-of-type{
+    float: right;
+    font-size: 1em;
+}
+
+.list-group a{
+    font-weight: bold;
+}
